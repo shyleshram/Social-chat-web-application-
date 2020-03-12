@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "Chat-App"
+    },
+    {
+      "path": "Chat-App-backend"
+    }
+  ],
+  "settings": {
+    "git.ignoreLimitWarning": true,
+    "liveServer.settings.multiRootWorkspaceName": "Chat-App-backend"
+  }
+}
